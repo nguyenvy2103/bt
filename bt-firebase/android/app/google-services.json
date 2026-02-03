@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579826027881",
+    "project_id": "uth-smarttasks-6b845",
+    "storage_bucket": "uth-smarttasks-6b845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579826027881:android:493230356145ee01e141f8",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579826027881-1unsq0558ujiubm024q62uj2lfj730v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlhA65XXK7Y2bPNj7jQwBvFUHg00ngxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579826027881-1unsq0558ujiubm024q62uj2lfj730v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
